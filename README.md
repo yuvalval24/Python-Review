@@ -53,7 +53,7 @@ You have an idea! Why not use Dictionaries? it's going to be super easy to do al
 ##### Call an Instructor/TA to check your completed tasks
  
 
-If you have extra time, continue to the **Bonus Problems** *below*.
+If you have extra time, continue to the **Bonus Problems** *below*. <br>
 If not, make sure you commit and push your code.
 
 
