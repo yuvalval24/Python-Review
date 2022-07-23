@@ -70,3 +70,5 @@ If you have finished and still have time, first of all **GOOD JOB!**
 
 
 <img src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif" width="500">
+
+make sure you commit and push your code.
